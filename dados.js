@@ -2461,7 +2461,7 @@ const colecaoElementos = [
     "afinidadeEletronica": "",
     "eletronegatividade": "1.3",
     "configuracaoEletronica": "[Rn] 5f14 7s2 7p1",
-    "grupo": "metal de transição",
+    "grupo": "actinoid",
     "raioIonico": "",
     "energiaDeIonizacao": "",
     "pontoDeFusao": "1900",

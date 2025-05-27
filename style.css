@@ -15,6 +15,18 @@
 .massa_atomica{
     font-size: 15px;
 }
-.margin-top{
-    margin-top: 35px;
+#removeDiv{
+    width: 400px;
+    height: 175px;
+    z-index: 5;
+    margin-top: -700px;
+    margin-left: 400px;
+}
+#infoDiv{
+    height: 175px;
+    width: 400px;
+}
+.elemento:hover{
+    z-index: 6;
+    margin-top: -10px;
 }
